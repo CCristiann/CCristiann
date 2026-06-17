@@ -12,13 +12,13 @@
 
 ---
 
-I'm a Computer Engineering &amp; AI undergraduate at **Roma Tre University** and a full-stack engineer who ships products end-to-end — from data model to deployment. My focus is **applied AI and the engineering of intelligent systems**, on a solid full-stack foundation. Based in Rome 🇮🇹.
+I'm a Computer Engineering &amp; AI undergraduate at **Roma Tre University** and a full-stack engineer who ships products end-to-end. My focus is **applied AI and the engineering of intelligent systems**, on a solid full-stack foundation. Based in Rome 🇮🇹.
 
 ### ▹ Currently
 
-- 🛠️ Building full-stack products with **Next.js · TypeScript · PostgreSQL**
-- 🧠 Going deep on applied AI — **LLM apps, RAG, and agents**
-- 💼 Freelancing — marketing sites &amp; SaaS dashboards, end-to-end
+- Building full-stack products with **Next.js · TypeScript · PostgreSQL**
+- Going deep on applied AI — **LLM apps, RAG, and agents**
+- Freelancing — marketing sites &amp; SaaS dashboards, end-to-end
 
 ### ▹ Tech
 
