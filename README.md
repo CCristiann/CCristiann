@@ -17,7 +17,7 @@ I'm a Computer Engineering &amp; AI undergraduate at **Roma Tre University** and
 ### ▹ Currently
 
 - Building full-stack products with **Next.js · TypeScript · PostgreSQL**
-- Going deep on applied AI — **LLM apps, RAG, and agents**
+- Going deep on applied AI
 - Freelancing — marketing sites &amp; SaaS dashboards, end-to-end
 
 ### ▹ Tech
@@ -59,16 +59,3 @@ I'm a Computer Engineering &amp; AI undergraduate at **Roma Tre University** and
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### ▹ Featured
-
-**[Zenthes](https://zenthes.com)** — Full-stack SaaS with subscription billing, license management, and a type-safe end-to-end API. Built with Next.js, TypeScript, Prisma, tRPC, and Stripe.
-
-→ More of my work on my **[portfolio](https://ccristiann.vercel.app)**.
-
-### ▹ Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CCristiann&show_icons=true&hide_border=true&theme=transparent&hide_title=true&count_private=true&include_all_commits=true" alt="Cristian's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCristiann&hide_border=true&theme=transparent&layout=compact&langs_count=8" alt="Top languages" />
-</p>
