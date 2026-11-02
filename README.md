@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ccristiann.vercel.app">Portfolio</a>&nbsp;·&nbsp;
+  <a href="https://ccristiann.dev">Portfolio</a>&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/cristiancirje">LinkedIn</a>&nbsp;·&nbsp;
   <a href="mailto:cirjecristian@icloud.com">Email</a>
 </p>
