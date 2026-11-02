@@ -1,7 +1,7 @@
 <h1 align="center">Cristian Cirje</h1>
 
 <p align="center">
-  Computer &amp; AI Engineering @ Roma Tre University&nbsp;·&nbsp;Full-Stack Developer&nbsp;·&nbsp;Building applied-AI products
+  Computer &amp; AI Engineering @ Roma Tre University&nbsp;·&nbsp;AI-Focused Full-Stack Engineer&nbsp;·&nbsp;Building applied-AI products
 </p>
 
 <p align="center">
